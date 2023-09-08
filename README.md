@@ -1,4 +1,4 @@
-<img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200"> # AI Resume Writer: Let AI Write your resume
+# AI Resume Writer: Let AI Write your resume
 
 ## Download Now
 
@@ -15,6 +15,7 @@ Welcome to the official website of **AI Resume Writer** - where AI meets your ca
 
 
 ---
+<img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200"> 
 
 ## About
 
