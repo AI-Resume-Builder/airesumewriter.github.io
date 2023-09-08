@@ -4,10 +4,10 @@
 
 <p align="center">
     <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
-        <img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/get-it-apple.jpeg" alt="Available on the App Store" width="150">
+        <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-apple.jpeg" alt="Available on the App Store" width="150">
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.wloo.airesume">
-        <img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/get-it-android.png" alt="Available on Google Play" width="150">
+        <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-android.png" alt="Available on Google Play" width="150">
     </a>
 </p>
 
@@ -32,4 +32,4 @@ AI Resume Writer is a revolutionary app that leverages cutting-edge artificial i
 
 We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch [here](https://forms.gle/dkonS5PPThD3oqVB7).
 
-<img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200"> 
+<img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/Group%2040.png" width="200"> 
