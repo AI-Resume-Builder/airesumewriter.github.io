@@ -15,7 +15,6 @@ Welcome to the official website of **AI Resume Writer** - where AI meets your ca
 
 
 ---
-<img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200"> 
 
 ## About
 
@@ -33,3 +32,5 @@ AI Resume Writer is a revolutionary app that leverages cutting-edge artificial i
 ## Feedback and Contribution
 
 We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch [here](https://forms.gle/dkonS5PPThD3oqVB7)https://forms.gle/dkonS5PPThD3oqVB7.
+
+<img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200"> 
