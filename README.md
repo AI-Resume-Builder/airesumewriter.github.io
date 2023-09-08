@@ -1,9 +1,20 @@
-# AI Resume Writer
+# AI Resume Writer: Let AI Write your resume
 
-Welcome to the official GitHub page of **AI Resume Writer** - where AI meets your career journey to help you craft the perfect resume.
+## Download Now
 
 <p align="center">
-    <img src="URL_OF_LOGO" width="200">
+    <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
+        <img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/get-it-apple.jpeg" alt="Available on the App Store" width="150">
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.wloo.airesume">
+        <img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/get-it-android.png" alt="Available on Google Play" width="150">
+    </a>
+</p>
+
+Welcome to the official website of **AI Resume Writer** - where AI meets your career journey to help you craft the perfect resume.
+
+<p align="center">
+    <img src="https://github.com/AI-Resume-Builder/airesumewriter.github.io/blob/main/Group%2040.png" width="200">
 </p>
 
 ---
@@ -20,17 +31,7 @@ AI Resume Writer is a revolutionary app that leverages cutting-edge artificial i
 - 🔄 **Real-time Sync**: Make changes on the go and access your resume from any device.
 - 🔐 **Privacy First**: Your data is yours. We value privacy and keep your data secure.
 
-## Download Now
-
-<p align="center">
-    <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
-        <img src="https://link-to-appstore-badge.com" alt="Available on the App Store" width="150">
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=com.wloo.airesume">
-        <img src="https://link-to-playstore-badge.com" alt="Available on Google Play" width="150">
-    </a>
-</p>
 
 ## Feedback and Contribution
 
-We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch or open an issue/pull request.
+We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch [here](https://forms.gle/dkonS5PPThD3oqVB7)https://forms.gle/dkonS5PPThD3oqVB7.
