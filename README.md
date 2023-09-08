@@ -13,7 +13,6 @@
 
 Welcome to the official website of **AI Resume Writer** - where AI meets your career journey to help you craft the perfect resume.
 
-
 ---
 
 ## About
